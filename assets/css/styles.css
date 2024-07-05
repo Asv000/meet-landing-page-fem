@@ -152,7 +152,7 @@ h2 {
 	align-items: center;
 	flex-direction: column;
 }
-.hero-img-left {
+/* .hero-img-left {
 	position: relative;
 	left: -5rem;
 }
@@ -160,7 +160,7 @@ h2 {
 	position: relative;
 	right: -5rem;
 	top: 55px;
-}
+} */
 .hero-btn-container {
 	display: flex;
 	justify-content: center;
